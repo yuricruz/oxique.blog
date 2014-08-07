@@ -4,7 +4,7 @@
 <title>Oxique - Moda Para Homens</title>
 <meta name="author" content="Autor da Post">
 <meta name="description" content="Descrição do Site!">
-<meta name="keywords" content="parallax,javascript,jquery,zepto,plugin,frontend,backend,evento,tecnologia,mobile">
+<meta name="keywords" content="oxique, blog, moda, masculina">
 <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
 <!-- Facebook Meta -->
 <meta property="og:description" content="Descrição do Site">
